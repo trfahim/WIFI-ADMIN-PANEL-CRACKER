@@ -1,4 +1,4 @@
-# WiFi Cracker
+# WiFi Admin Panel Cracker
 
 A Python-based tool for brute-forcing router login credentials using a wordlist. This script simulates login attempts to a router's web interface and attempts to crack the password.
 
