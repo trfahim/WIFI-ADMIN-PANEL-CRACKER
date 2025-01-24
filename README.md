@@ -23,3 +23,20 @@ A Python-based tool for brute-forcing router login credentials using a wordlist.
    ```bash
    git clone https://github.com/trfahim/WIFI-ADMIN-PANEL-CRACKER.git
    cd panel_cracker.py
+
+## Example Output
+WIFI CRACKER
+------------------------------
+      GITHUB >>> TRFAHIM
+------------------------------
+
+[1] DEFAULT IP [2] SET IP >>> 1
+Input Wordlist Path >>> wordlist.txt
+========= Start Scanning ==========
+
+Attempt[1]: Trying >> admin
+Attempt[2]: Trying >> password123
+Attempt[3]: Trying >> qwerty
+******************************
+   PASSWORD FOUND :: qwerty
+******************************
