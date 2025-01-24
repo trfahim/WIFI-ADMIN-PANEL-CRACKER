@@ -21,5 +21,5 @@ A Python-based tool for brute-forcing router login credentials using a wordlist.
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/trfahim/WiFi-Cracker.git
-   cd WiFi-Cracker
+   git clone https://github.com/trfahim/WiFi-Admin-Panel-Cracker.git
+   cd panel_cracker.py
