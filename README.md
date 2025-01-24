@@ -18,11 +18,15 @@ A Python-based tool for brute-forcing router login credentials using a wordlist.
 - Python 3.8 or higher.
 - Required Python modules: `requests`, `pyfiglet`, `colorama`.
 
-### Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/trfahim/WIFI-ADMIN-PANEL-CRACKER.git
-   cd panel_cracker.py
+# How to use
+### Step 1: Clone the Repository
+```bash
+git clone https://github.com/trfahim/WiFi-Panel-Cracker.git
+cd WiFi-Panel-Cracker
+
+### Step 2:Install Required Libraries
+
+   
 ## Author
 - TR Fahim
 - GitHub: trfahim
