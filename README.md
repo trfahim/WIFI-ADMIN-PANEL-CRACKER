@@ -22,7 +22,7 @@ A Python-based tool for brute-forcing router login credentials using a wordlist.
 ### Step 1: Clone the Repository
 - git clone https://github.com/trfahim/WIFI-ADMIN-PANEL-CRACKER.git
 - cd WIFI-ADMIN-PANEL-CRACKER
-### Step 2:Install Required Libraries
+### Step 2: Install Required Libraries
 - pip install requests
 - pip install pyfiglet
 - pip insatll colorama
