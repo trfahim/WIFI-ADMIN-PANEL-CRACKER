@@ -26,7 +26,7 @@ A Python-based tool for brute-forcing router login credentials using a wordlist.
 ### Step 2:Install Required Libraries
 
    
-## Author ♦️
+# Author ♦️
 ### TR Fahim
 ### GitHub: trfahim
 # Disclaimer 💀
